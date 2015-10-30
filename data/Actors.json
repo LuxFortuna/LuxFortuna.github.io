@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Shinju Battler","characterIndex":0,"characterName":"Shinju Walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Shinju","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Shinju","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Lux Battler","characterIndex":0,"characterName":"Lux Walking","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Lux","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lux","nickname":"","note":"","profile":""}
+]
